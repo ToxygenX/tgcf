@@ -40,6 +40,6 @@ docker-release: docker
 	@docker push -a aahnik/tgcf
 
 docker-run:
-	@docker run -d -p 8501:8501 --env-file .env aahnik/tgcf
+	@docker run -d -p 7860:7860 --env-file .env aahnik/tgcf
 
 release: pypi docker-release
