@@ -2236,16 +2236,7 @@ pure-eval = "*"
 [package.extras]
 tests = ["cython", "littleutils", "pygments", "pytest", "typeguard"]
 
-[[package]]
-name = "streamlit"
-version = "1.15.2"
-description = "The fastest way to build data apps in Python"
-optional = false
-python-versions = ">=3.7, !=3.9.7"
-files = [
-    {file = "streamlit-1.15.2-py2.py3-none-any.whl", hash = "sha256:40933b64e7b3a1770d798918cbd2ae52a6671a52266ac069f62e1b66f38e0662"},
-    {file = "streamlit-1.15.2.tar.gz", hash = "sha256:31b2fa33848f8dbcf526e6c93017cf58c81a8479844c4f6ff553382e1bac6152"},
-]
+
 
 [package.dependencies]
 altair = ">=3.2.0"
@@ -2299,7 +2290,7 @@ optional = false
 python-versions = ">=3.10,<4.0"
 files = [
     {file = "tg-login-0.0.4.tar.gz", hash = "sha256:a01ab9df48bc2278a8aad4c587641bd1adbf286a12c3ad588f29069b98064167"},
-    {file = "tg_login-0.0.4-py3-none-any.whl", hash = "sha256:ab733eed63fecacd99c0e7fc9fbf34cbd80bfeb7ce22d2c9123158b7092270be"},
+    {file = "tg_login-0.0.4-py3-none-any.whl", hash = "sha256:ab733eed63fecacd99c0e7fc9fbf34bd80bfeb7ce22d2c9123158b7092270be"},
 ]
 
 [package.dependencies]
