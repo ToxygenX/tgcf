@@ -2290,7 +2290,7 @@ optional = false
 python-versions = ">=3.10,<4.0"
 files = [
     {file = "tg-login-0.0.4.tar.gz", hash = "sha256:a01ab9df48bc2278a8aad4c587641bd1adbf286a12c3ad588f29069b98064167"},
-    {file = "tg_login-0.0.4-py3-none-any.whl", hash = "sha256:ab733eed63fecacd99c0e7fc9fbf34bd80bfeb7ce22d2c9123158b7092270be"},
+    {file = "tg_login-0.0.4-py3-none-any.whl", hash = "sha256:ab733eed63fecacd99c0e7fc9fbf34cbd80bfeb7ce22d2c9123158b7092270be"},
 ]
 
 [package.dependencies]
